@@ -51,7 +51,7 @@ footer {
 
 /* item */
 .item .panel-body {
-  height: 120px;    /* Want ボタンが増えたので、70px から 120pxに修正 */
+  height: 150px;    /* Want ボタンが増えたので、70px から 150pxに修正 */
 }
 .item .panel-heading {
   height: 250px;
@@ -70,7 +70,7 @@ p.item-title {
 /* item 追加分 */
 .item .buttons form {
   display: inline-block;
-  margin: 0 5px;
+  margin: 5px;
 }
 
 
